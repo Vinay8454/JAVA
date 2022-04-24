@@ -72,3 +72,65 @@ git status
 git commit -m "First Commit" file1
 git log
 git status
+ls -al
+git add .
+git commit -m "First commit" .
+git log
+cat file1
+git config --global user.email"jaguvinay2002@gmail.com"
+git config --local user_name"jagu_vinay"
+git config --local user-name"jagu_vinay"
+git config --local user.name "jaguvinay"
+git commit -m "First Commit" file1
+git config --global user.email "jaguvinay2002@gmail.com"
+git comfig --global user.name "Raja Vinay"
+git config --global user.name "Raja Vinay"
+git commit -m "First Commit" file1
+git log
+touch file2
+git add file2
+ls -ll
+vim file2
+cat file2
+ls -al
+git statis
+git status
+git add file2
+git commit -m "Successfully modified" file2
+git log
+git status
+git add .
+git commit -m "all" .~
+git commit -m "all" .
+git log
+touch file3
+git add .
+git commit -m "all added" .
+git status
+git log
+git remote add origin https://github.com/Vinay8454/JAVA.git
+ll
+ls
+git branch
+git push -u origin master
+git branch
+git branch branch1
+git branch
+touch file4
+touch file5
+git add .
+ll
+git commit -m "branch1" .
+git branch
+git log
+ll
+git push -u origin master
+git checkout  branch1
+git branch
+touch file4
+touch file5
+touch file6
+git add .
+git commit -m BRANCH1 COMMITS" .
+
+
